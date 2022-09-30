@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wawerukibe-96
-- 👀 I’m interested in web development
+- 👀 I’m  a Senior Python developer.
 - 🌱 I’m currently learning Object Oriented Php
 - 📫 How to reach me 0790702172
 
